@@ -6,9 +6,10 @@ first of all we chose an element (r)(last one but no difference) then sort dvide
 with recursion we do this function over and over till we have an array(not an new array, just two indexes) which has 2 sorted element and then we have an sorted array
 
 # Time:
-<u>Expected value: <i>T = θ(nlogn) 
+<u><p>Expected value: <i>T = θ(nlogn) </p>
+  <p>
   </i>Worst run time: <i> T = θ(n^2)
-  </i></u>
+  </p></i></u>
 
 (n is number of elements and T is not necessarily seconds)
 
