@@ -5,6 +5,8 @@ This algorithm is really fast and easy!
 first of all we chose an element (r)(last one but no difference) then sort dvide other elements by 2 group: 1. less than r, 2. more than r;
 with recursion we do this function over and over till we have an array(not an new array, just two indexes) which has 2 sorted element and then we have a sorted array.
 ![pic1](https://user-images.githubusercontent.com/96871830/149281421-501681c1-0010-4942-9031-c2d038bc785b.png)
+# Example:
+![pic3](https://user-images.githubusercontent.com/96871830/149281453-5cf30e41-e5cd-464c-bb2b-7cda3b72af9d.png)
 # Time:
 <u><p>Expected value: <i>T = θ(nlogn) </p>
   <p>
@@ -14,10 +16,7 @@ with recursion we do this function over and over till we have an array(not an ne
 (n is number of elements and T is not necessarily seconds)
 
 # How can we test it?
-
-![pic3](https://user-images.githubusercontent.com/96871830/149281453-5cf30e41-e5cd-464c-bb2b-7cda3b72af9d.png)
 That's so simple! there is a tester file you can use!
-
 #  
  compiled in Java16.   
     
